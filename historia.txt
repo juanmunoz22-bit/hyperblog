@@ -1,0 +1,3 @@
+Hola mi nombre es Juan Pablo y estoy aprendiendo a programar en Python.
+
+Tengo 23 años y vivo en la ciudad de Bogotá.
